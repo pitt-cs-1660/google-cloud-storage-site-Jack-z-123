@@ -1,3 +1,9 @@
+# Load Balancer
+![image](https://github.com/pitt-cs-1660/google-cloud-storage-site-Jack-z-123/assets/31300529/4206256b-1016-473a-9bb0-3e0402cbf317)
+![image](https://github.com/pitt-cs-1660/google-cloud-storage-site-Jack-z-123/assets/31300529/aab24fea-9758-46cd-8587-988526c05b5c)
+![image](https://github.com/pitt-cs-1660/google-cloud-storage-site-Jack-z-123/assets/31300529/f939923f-3443-4cdc-8bd8-a6de087b871d)
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p3a22N-M)
 # CS1660 Static Website Project
 
